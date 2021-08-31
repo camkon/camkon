@@ -1,6 +1,6 @@
 ## Ansaf Nisam /camkon 
 <br>
-Hi 👋, I'm Ansaf! I am a CSE student. I'm on an exciting path to become a full-stack web dev. A major turning point was when i found out [tanaypratap.com](https://www.tanaypratap.com). I love to get to know people from all around the world, but, still an introvert, so If you happen to find me, please approach me😄😅.<br><br><br>
+Hi 👋, I'm Ansaf! I am a CSE student. I'm on an exciting path to become a full-stack web dev. A major turning point was when i found out https://www.tanaypratap.com. I love to get to know people from all around the world, but, still an introvert, so If you happen to find me, please approach me😄😅.<br><br><br>
 
 
 ## My values
@@ -15,6 +15,7 @@ Just discovered about the web dev world. Need to find out more and complete fron
 ## 📚 Langues that I know
 - HTML5
 - CSS
+- JS
 - PYTHON
 - C++
 <br><br><br>
