@@ -1,28 +1,43 @@
 <h6 align="center"> Ansaf Nisam | camkon </h6>
 
 ### Hi there 👋
-#### I'm a Frontend Developer | CSE-student from Kerala, India.
+#### I'm a ReactJs Developer @ Chzapps, Kochi
 <br>
 
 ### NOW 
 - 🤹‍♂️ Busy juggling uni and web-dev studies.
-- 👨‍💻 Learning __React__
+- 👨‍💻 Unpacking __ReactJs__
+- 🧐 Learning UI/UX
 - 🎎 Networking
+- 👦 Freelancing
 <br><br>
-
 
 ### BIO 
-- 👨‍🎓 Studiying at Excel Engineering College.
-- 🦸‍♂️ Animations enthusiast.
-- 🌱 Looking forward - __Open Source__
-- 📚 I mostly use <br>
-🔸 HTML 
-🔸 CSS | Sass 
-🔸 JavaScript 
-🔸 Python 
-🔸 C++ 
+- 👨‍💻 Working at Chzapps India
+- 👨‍🎓 Student at Excel Engineering College, CSE, II year.
+- 🦸‍♂️ Learning enthusiast.
+- 🌱 Looking forward to learn - __React Native__
 <br><br>
 
+### I USE
+🔸 ReactJs <br>
+🔸 HTML <br>
+🔸 CSS | SASS <br>
+🔸 JavaScript <br>
+🔸 Python <br>
+🔸 C++ <br>
+
+#### TOOLS
+🔸 VS Code <br>
+🔸 Figma <br>
+<br><br>
+
+### Goals for 2022
+- To get a job / internship as a developer. ✔
+- To make a good portfolio website before november.
+- To make atleast 5 good projects ie webapps before 2023.
+- Be ready to learn DSA in 2023
+<br><br>
 
 ### Get in touch
 twitter : <a href="https://www.twitter.com/ansaf_nisam">@ansaf_nisam</a>
