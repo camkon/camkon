@@ -14,9 +14,9 @@
 
 ### BIO 
 - 👨‍💻 Working at Chzapps India
-- 👨‍🎓 Student at Excel Engineering College, CSE, II year.
+- 👨‍🎓 Student at Excel Engineering College, CSE, III year.
 - 🦸‍♂️ Learning enthusiast.
-- 🌱 Looking forward to learn - __React Native__
+- 🌱 Looking forward to learn - __NodeJs__
 <br><br>
 
 ### I USE
@@ -30,6 +30,7 @@
 #### TOOLS
 🔸 VS Code <br>
 🔸 Figma <br>
+🔸 Github <br>
 <br><br>
 
 ### Goals for 2022
