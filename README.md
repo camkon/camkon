@@ -43,7 +43,5 @@
 ### Get in touch
 twitter : <a href="https://www.twitter.com/ansaf_nisam">@ansaf_nisam</a>
 <br>
-instagram : <a href="https://www.instagram.com/ansafbin">@ansafbin</a>
-<br>
 linkedin : <a href="https://www.linkedin.com/in/ansaf-nisam">Ansaf Nisam</a>
 <br>
