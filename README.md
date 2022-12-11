@@ -1,7 +1,7 @@
 <h6 align="center"> Ansaf Nisam | camkon </h6>
 
 ### Hi there 👋
-#### I'm a ReactJs Developer @ Chzapps, Kochi
+#### I'm a Frontend Developer @ Dabler Ltd, London, UK
 <br>
 
 ### NOW 
@@ -13,7 +13,7 @@
 <br><br>
 
 ### BIO 
-- 👨‍💻 Working at Chzapps India
+- 👨‍💻 Working at Dabler
 - 👨‍🎓 Student at Excel Engineering College, CSE, III year.
 - 🦸‍♂️ Learning enthusiast.
 - 🌱 Looking forward to learn - __NodeJs__
@@ -21,6 +21,7 @@
 
 ### I USE
 🔸 ReactJs <br>
+🔸 Redux <br>
 🔸 HTML <br>
 🔸 CSS | SASS <br>
 🔸 JavaScript <br>
@@ -31,13 +32,6 @@
 🔸 VS Code <br>
 🔸 Figma <br>
 🔸 Github <br>
-<br><br>
-
-### Goals for 2022
-- To get a job / internship as a developer. ✔
-- To make a good portfolio website before november.
-- To make atleast 5 good projects ie webapps before 2023.
-- Be ready to learn DSA in 2023
 <br><br>
 
 ### Get in touch
