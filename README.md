@@ -6,36 +6,28 @@
 
 ### NOW 
 - 🤹‍♂️ Busy juggling uni and web-dev studies.
-- 👨‍💻 Unpacking __ReactJs__
-- 🧐 Learning UI/UX
+- 👨‍💻 Unpacking __MERN__
 - 🎎 Networking
 - 👦 Freelancing
 <br><br>
 
 ### BIO 
 - 👨‍💻 Working at Dabler
-- 👨‍🎓 Student at Excel Engineering College, CSE, III year.
+- 👨‍🎓 Student at Excel Engineering College, CSE, IV year.
 - 🦸‍♂️ Learning enthusiast.
-- 🌱 Looking forward to learn - __NodeJs__
+- 🌱 Looking forward to learn - __DSA__
 <br><br>
 
 ### I USE
 🔸 ReactJs <br>
+🔸 TypeScript <br>
+🔸 NextJs <br>
 🔸 Redux <br>
-🔸 HTML <br>
-🔸 CSS | SASS <br>
 🔸 JavaScript <br>
 🔸 Python <br>
-🔸 C++ <br>
-
-#### TOOLS
-🔸 VS Code <br>
-🔸 Figma <br>
-🔸 Github <br>
-<br><br>
+🔸 NodeJs <br>
+🔸 MongoDB <br>
 
 ### Get in touch
-twitter : <a href="https://www.twitter.com/ansaf_nisam">@ansaf_nisam</a>
-<br>
 linkedin : <a href="https://www.linkedin.com/in/ansaf-nisam">Ansaf Nisam</a>
 <br>
